@@ -21,4 +21,3 @@ public class Program1_PrimitiveDataTypes {
         System.out.println("Boolean value: " + bool);
     }
 }
-//tested with output

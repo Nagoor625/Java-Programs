@@ -14,4 +14,3 @@ public class Program2_TypeConversion {
     }
 
 }
-//tested with output

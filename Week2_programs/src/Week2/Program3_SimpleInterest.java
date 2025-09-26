@@ -21,4 +21,4 @@ public class Program3_SimpleInterest {
         sc.close();
     }
 }
-//tested with output
+

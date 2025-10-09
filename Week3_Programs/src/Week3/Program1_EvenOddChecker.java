@@ -1,3 +1,5 @@
+package Week3;
+
 import java.util.Scanner;
 
 public class Program1_EvenOddChecker {
@@ -11,6 +13,7 @@ public class Program1_EvenOddChecker {
         } else {
             System.out.println(num + " is Odd.");
         }
+
         sc.close();
     }
 }
